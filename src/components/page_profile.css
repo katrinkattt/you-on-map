@@ -1,0 +1,29 @@
+.main_profile{
+    padding-top: 30px;
+}
+.name{
+    display: flex;
+    justify-content: center;
+    font-size:30px;
+}
+.foto{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background-color: #797a7e;
+    margin: auto;
+    margin-bottom: 20px;
+    cursor: pointer;
+    position: relative;
+}
+.foto:hover{
+    height: 200px;
+    width: 200px;
+}
+.foto>img{
+    position: absolute;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+}

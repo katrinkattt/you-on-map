@@ -1,0 +1,21 @@
+.btn_main{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    z-index: 1;
+}
+.btn{
+    padding: 10px 15px 10px 15px;
+    border: none;
+    border-radius: 6px;
+    background-color: #08089b;
+    box-shadow: #00000081 2px 3px 3px;
+    color: #e7e7e7;
+    letter-spacing: 0.2rem;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: #0a0abb;
+    box-shadow: #00000088 2px 2px 2px;
+}

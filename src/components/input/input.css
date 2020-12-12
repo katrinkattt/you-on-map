@@ -1,0 +1,16 @@
+.main_input{
+    display: grid;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 20px;
+}
+label{
+    font-weight: 700;
+    color: #030303;
+}
+input{
+    padding: 5px;
+    font-size: 16px;
+    border: #08089b 2px solid;
+    box-shadow: inset 3px 2px 4px #03030388;
+    border-radius: 3px;
+}

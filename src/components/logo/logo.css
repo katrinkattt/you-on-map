@@ -1,0 +1,12 @@
+.logo_main{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.logo{
+    height: 70px;
+    width: 70px;
+}
+.logo svg{
+    fill: #08089b;
+}
